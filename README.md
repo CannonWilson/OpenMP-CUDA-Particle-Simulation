@@ -12,8 +12,8 @@ between sequential CPU, mult-threaded CPU, and GPU computing for use in the N-Bo
 problem. Finally, the project demonstrates a virtual reality (VR) application deployed on a
 VR headset that lets a user see the result of the simulation.
 
-For more info, please read the report in the "Report" folder of this repo. Here are the final videos for the project!
+For more info, please read the report in the "Report" folder of this repo. Here are Google Drive links to the final videos for the project!
 
-[VR_particles.mp4](./Videos/VR_particles.mp4)
+[VR_particles Video]([./Videos/VR_particles.mp4](https://drive.google.com/file/d/11kQmZDws5c1wMZ4iYoyO9fRT9pgTcrI-/view?usp=sharing))
 
-[VR_densities.mp4](./Videos/VR_densities.mp4)
+[VR_densities Video](./Videos/VR_densities.mp4](https://drive.google.com/file/d/1jtKgxjfQTuemtsDpGf-hM3MsUlH54fhp/view?usp=sharing)https://drive.google.com/file/d/1jtKgxjfQTuemtsDpGf-hM3MsUlH54fhp/view?usp=sharing)
