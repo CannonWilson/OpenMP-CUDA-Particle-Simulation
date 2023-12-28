@@ -20,4 +20,4 @@ For more info, please read the report in the "Report" folder of this repo. Here 
 
 Here are the final timing results:
 
-<image src="./Images/TimingResult.png" width=200></image>
+<img src="./Images/TimingResult.png" width=200 alt="Timing Results"></img>
