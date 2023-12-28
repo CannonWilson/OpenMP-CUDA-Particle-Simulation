@@ -14,6 +14,6 @@ VR headset that lets a user see the result of the simulation.
 
 For more info, please read the report in the "Report" folder of this repo. Here are Google Drive links to the final videos for the project!
 
-[VR_particles Video]([./Videos/VR_particles.mp4](https://drive.google.com/file/d/11kQmZDws5c1wMZ4iYoyO9fRT9pgTcrI-/view?usp=sharing))
+[VR_particles Video](https://drive.google.com/file/d/11kQmZDws5c1wMZ4iYoyO9fRT9pgTcrI-/view?usp=sharing)
 
-[VR_densities Video](./Videos/VR_densities.mp4](https://drive.google.com/file/d/1jtKgxjfQTuemtsDpGf-hM3MsUlH54fhp/view?usp=sharing)https://drive.google.com/file/d/1jtKgxjfQTuemtsDpGf-hM3MsUlH54fhp/view?usp=sharing)
+[VR_densities Video](https://drive.google.com/file/d/1jtKgxjfQTuemtsDpGf-hM3MsUlH54fhp/view?usp=sharing)
