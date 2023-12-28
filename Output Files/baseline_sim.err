@@ -1,0 +1,11 @@
+sim.cpp: In function ‘int main(int, char**)’:
+sim.cpp:108:9: warning: unused variable ‘v_init’ [-Wunused-variable]
+  108 |     int v_init = 0; // Assume velocity will be initialized to 0 in all 3 directions
+      |         ^~~~~~
+sim.cpp:112:9: warning: unused variable ‘box_volume’ [-Wunused-variable]
+  112 |     int box_volume = box_width * box_width * box_width;
+      |         ^~~~~~~~~~
+sim.cpp:114:11: warning: unused variable ‘grid_spacing’ [-Wunused-variable]
+  114 |     float grid_spacing = static_cast<float>(box_width) / particles_per_dim; // Distance between particles in each direction
+      |           ^~~~~~~~~~~~
+slurmstepd: error: *** JOB 486659 ON euler01 CANCELLED AT 2023-12-12T21:31:21 ***

@@ -1,0 +1,10 @@
+omp_sim.cpp: In function ‘int main(int, char**)’:
+omp_sim.cpp:130:9: warning: unused variable ‘v_init’ [-Wunused-variable]
+  130 |     int v_init = 0; // Assume velocity will be initialized to 0 in all 3 directions
+      |         ^~~~~~
+omp_sim.cpp:134:9: warning: unused variable ‘box_volume’ [-Wunused-variable]
+  134 |     int box_volume = box_width * box_width * box_width;
+      |         ^~~~~~~~~~
+omp_sim.cpp:136:11: warning: unused variable ‘grid_spacing’ [-Wunused-variable]
+  136 |     float grid_spacing = static_cast<float>(box_width) / particles_per_dim; // Distance between particles in each direction
+      |           ^~~~~~~~~~~~

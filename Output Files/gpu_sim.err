@@ -1,0 +1,7 @@
+gpu_sim.cu(151): warning #177-D: variable "v_init" was declared but never referenced
+
+gpu_sim.cu(155): warning #177-D: variable "box_volume" was declared but never referenced
+
+gpu_sim.cu(170): warning #177-D: variable "duration_sec" was declared but never referenced
+
+slurmstepd: error: *** JOB 486728 ON euler13 CANCELLED AT 2023-12-12T21:31:00 ***
